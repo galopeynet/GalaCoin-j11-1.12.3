@@ -23,6 +23,7 @@ GALA is a cryptocurrency to make the world a better place.
 
   - wait for the JavaFX wallet window to open
   - on platforms without JavaFX, open http://localhost:7003/ in a browser
+  - or visit online wallet https://wdc.teststrana.com
 
 ----
 ## Compile it! ##
