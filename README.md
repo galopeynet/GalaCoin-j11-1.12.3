@@ -6,8 +6,9 @@ Get it!
 dependencies:
 general - Java 11
 Ubuntu - `https://tecadmin.net/install-java-ubuntu-20-04/
+##
 Debian - https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
-FreeBSD - pkg install openjdk8
+FreeBSD - pkg install openjdk11
 Run it!
 download and unzip file
 click on the GALA icon, or start from the command line:
