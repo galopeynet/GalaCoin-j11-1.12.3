@@ -1,1 +1,0 @@
-java -jar C:/wallett/gala-client-novi-1.12.3/gala/gala.jar
