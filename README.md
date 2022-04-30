@@ -9,7 +9,9 @@ GALA is a cryptocurrency to make the world a better place.
 ## Get it! ##
 
   - *dependencies*:
-    - *general* - Java 11
+    - *general* - Java SE Development Kit 11.0.15 https://www.oracle.com/java/technologies/downloads/#java11-linux 
+    - for windows users https://www.oracle.com/java/technologies/downloads/#java11-windows
+    
     - *Ubuntu* - `https://tecadmin.net/install-java-ubuntu-20-04/
     - *Debian* - `https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html`
     - *FreeBSD* - `pkg install openjdk11`
